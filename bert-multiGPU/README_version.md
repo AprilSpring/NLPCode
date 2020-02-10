@@ -1,0 +1,6 @@
+run_classifier_hvd.py:多GPU的原始运行文件
+run_classifier_hvd_v2.py:多GPU测试文件
+run_classifier_hvd_v3.py:修改原始文件，使其可以生成savedmodel文件
+run_classifier_hvd_v4.py:添加了tensorboard的accuracy可视化
+run_classifier_hvd_arenaPS.py:添加了tensorboard的accuracy可视化、PS方式并行
+run_classifier_hvd_arenaHorovod.py:添加了tensorboard的accuracy可视化、horovod方式并行
